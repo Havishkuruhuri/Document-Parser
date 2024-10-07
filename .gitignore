@@ -1,0 +1,14 @@
+# Ignore Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore PDF files
+*.pdf
+
+# Ignore HuggingFace token files
+*.token
+
+# Ignore virtual environment files
+env/
+venv/
